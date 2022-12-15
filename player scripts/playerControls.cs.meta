@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc8f498d6e78a154f9e8d36766ffda52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - energyBar: {instanceID: 0}
+  - collectSound: {instanceID: 0}
+  - scoreText: {fileID: 100000, guid: a6e39ced0ea046bcb636c3f0b2e2a745, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
